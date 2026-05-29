@@ -1,0 +1,19 @@
+# Federated Learning & Privacy Core
+tensorflow==2.15.0
+tensorflow-federated==0.87.0
+tensorflow-privacy==0.9.0
+dp-accounting==0.4.3
+jax==0.4.26
+jaxlib==0.4.26
+
+# Data Processing & Machine Learning
+numpy
+pandas
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+pydot
+graphviz
